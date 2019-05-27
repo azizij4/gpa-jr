@@ -4,7 +4,7 @@ while dox == True:
                        
 
 
-                                 WELCOME TO G.P.A CHECKER
+                                 WELCOME TO G.P.A CALCULATOR
 
            ****************************************************************
            *        JRIIT INSTITUTE OF INFORMATION TECHNOLOGY             *
